@@ -32,7 +32,7 @@ from telegram.ext import (
     MessageHandler,
 )
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
-from telegram.utils.helpers import escape_markdown
+
 
 from Natsuki import (
     ALLOW_EXCL,
