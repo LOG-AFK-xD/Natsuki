@@ -24,7 +24,7 @@ from telegram import (
 from telegram.error import BadRequest
 from telegram.ext import CallbackContext, CommandHandler, Filters, run_async
 from telegram.ext.dispatcher import run_async
-from telegram.utils.helpers import escape_markdown
+
 from tswift import Song
 
 from Natsuki import DEV_USERS, OWNER_ID, dispatcher
