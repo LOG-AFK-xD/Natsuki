@@ -23,6 +23,7 @@ coffeehouse
 regex
 bleach
 wikipedia
+https://github.com/trentm/python-markdown2.git
 git+https://github.com/LonamiWebs/Telethon.git
 spamwatch
 alphabet_detector
